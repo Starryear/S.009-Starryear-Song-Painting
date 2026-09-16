@@ -1,0 +1,4 @@
+interface:
+  display_name: "【S.009】Starryear-Song-Painting丨星年·宋画"
+  short_description: "将照片递进为原图、宋画超现实空间与极简余韵三联"
+  default_prompt: "Use $starryear-song-painting to transform my photograph into an original-evidence, surreal Song-spatial reconstruction, and minimalist-afterimage poster."
