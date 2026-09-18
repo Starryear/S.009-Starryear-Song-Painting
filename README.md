@@ -1,6 +1,6 @@
 <div align="center">
 
-# 【S.009】Starryear-Song-Painting丨星年·宋画
+# 🕊️ Starryear Quiet Witness｜静观三联
 
 **让一张照片从现实证据，走入宋画式超现实空间，最后沉静为极简余韵。**
 
@@ -36,7 +36,7 @@
 
 ## 🖼️ 示例作品
 
-![星年·宋画示例作品](assets/examples/starryear-song-painting-example.png)
+![海岸宋画超现实静观三联](assets/examples/coastal-song-surreal-quiet-witness.png)
 
 > 该成品已由 Starryear年 明确认可，仅用于展示方法效果；不得把其题材、配色或构图作为其他输入的固定模板。
 
@@ -56,11 +56,11 @@
 
 ### 方式一：作为 Codex Skill 使用
 
-1. 将整个 `starryear-song-painting` 文件夹复制到 Codex skills 目录，例如 `~/.codex/skills/`。
+1. 将整个 `starryear-quiet-witness-triptych` 文件夹复制到 Codex skills 目录，例如 `~/.codex/skills/`。
 2. 开启新的 Codex 对话并上传一张照片。
 3. 提出需求：
 
-   > 使用 `starryear-song-painting`，把这张照片做成从原图到写意再到极简余韵的纵向三联长卷。
+   > 使用 `starryear-quiet-witness-triptych`，把这张照片做成从原图到写意再到极简余韵的纵向三联长卷。
 
 4. Skill 输出一张完整的 8:15 竖向海报，不拆分为三张图片。
 
@@ -68,8 +68,8 @@
 
 | 语言 | 文件 |
 | :---: | :--- |
-| 🇨🇳 中文 | [references/starryear-song-painting-prompt.zh-CN.md](references/starryear-song-painting-prompt.zh-CN.md) |
-| 🇬🇧 English | [references/starryear-song-painting-prompt.en.md](references/starryear-song-painting-prompt.en.md) |
+| 🇨🇳 中文 | [references/starryear-quiet-witness-triptych-prompt.zh-CN.md](references/starryear-quiet-witness-triptych-prompt.zh-CN.md) |
+| 🇬🇧 English | [references/starryear-quiet-witness-triptych-prompt.en.md](references/starryear-quiet-witness-triptych-prompt.en.md) |
 
 ---
 
@@ -95,16 +95,16 @@
 ## 📁 内容结构
 
 ```text
-starryear-song-painting/
+starryear-quiet-witness-triptych/
 ├── README.md
 ├── LICENSE.md
 ├── SKILL.md
 ├── agents/openai.yaml
 ├── references/
-│   ├── starryear-song-painting-prompt.zh-CN.md
-│   └── starryear-song-painting-prompt.en.md
+│   ├── starryear-quiet-witness-triptych-prompt.zh-CN.md
+│   └── starryear-quiet-witness-triptych-prompt.en.md
 └── assets/examples/
-    └── starryear-song-painting-example.png
+    └── coastal-song-surreal-quiet-witness.png
 ```
 
 > ⚠️ 示例目录只包含 Starryear年 已明确认可的最终成品；不得放入参考图、临时输出或未经确认的测试图。

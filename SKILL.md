@@ -1,9 +1,9 @@
 ---
-name: starryear-song-painting
-description: Transform one user-supplied photograph into a tall editorial triptych that descends from unchanged photographic evidence through a Northern-Song-inspired surreal spatial reconstruction to a framed minimalist afterimage. Use for S.009、星年·宋画、宋画超现实照片转译、原图—写意—极简递进 or Starryear Song Painting. Do not use for ordinary filters, literal redraws, generic antique landscapes, horizontal layouts, or full-image style transfer without an untouched evidence panel.
+name: starryear-quiet-witness-triptych
+description: Transform one user-supplied photograph into a tall editorial triptych that descends from unchanged photographic evidence through a Northern-Song-inspired surreal spatial reconstruction to a framed minimalist afterimage. Use for 静观三联、宋画超现实照片转译、原图—写意—极简递进 or A Quiet Witness. Do not use for ordinary filters, literal redraws, generic antique landscapes, horizontal layouts, or full-image style transfer without an untouched evidence panel.
 ---
 
-# 【S.009】Starryear-Song-Painting丨星年·宋画
+# Starryear Quiet Witness｜静观三联
 
 Create one continuous vertical editorial artwork whose three stages become progressively quieter: an untouched source photograph at the top, a materially dense painterly reconstruction in the middle, and a sparse framed afterimage at the bottom. Preserve the source's decisive structure across all stages while reducing detail, color, and narrative density from top to bottom.
 
@@ -32,7 +32,7 @@ Create one continuous vertical editorial artwork whose three stages become progr
 
 Read the appropriate full prompt before producing the image:
 
-- Chinese: [references/starryear-song-painting-prompt.zh-CN.md](references/starryear-song-painting-prompt.zh-CN.md)
-- English: [references/starryear-song-painting-prompt.en.md](references/starryear-song-painting-prompt.en.md)
+- Chinese: [references/starryear-quiet-witness-triptych-prompt.zh-CN.md](references/starryear-quiet-witness-triptych-prompt.zh-CN.md)
+- English: [references/starryear-quiet-witness-triptych-prompt.en.md](references/starryear-quiet-witness-triptych-prompt.en.md)
 
 Keep [assets/examples](assets/examples) empty during drafting and testing. Do not add reference images, test renders, temporary outputs, `.gitkeep`, or placeholders. After Starryear年 explicitly accepts the tested Skill, add only final images supplied or approved by the user; treat them as examples only and never reuse their subject matter, colors, or composition unless the user supplies that exact image.

@@ -1,4 +1,4 @@
-# 【S.009】Starryear-Song-Painting | Full Prompt
+# Starryear Quiet Witness Triptych Full Prompt
 
 Treat the user's single uploaded photograph as the sole content evidence, compositional basis, and color source. Create one continuous vertical editorial artwork that descends through “photographic evidence → painterly reconstruction → minimalist afterimage.” Do not apply one filter to all three stages or invent a generic East Asian scene unrelated to the photograph.
 
